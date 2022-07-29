@@ -1,0 +1,20 @@
+h1 {
+  color: #890F0D;
+  font-family: system-ui;
+  font-size: 50px;
+  animation: slidein 3s linear 1s;
+}
+
+body {
+  background-color: #FCF8E8;
+  margin-left: 35%;
+}
+
+p {
+  color: #FF4949;
+}
+
+iframe {
+  height: 300px;
+  width: 300px;
+}
